@@ -1,9 +1,12 @@
-# backend-node-express
+<a href="https://deploymonk.com"><img src="https://deploymonk.com/images/brand.png" alt="Deploy Monk" height="60" /></a>
 
-Repository for the the following guide:
+A super simple Node Express application.
 
-**Express**
+## Getting started
 
-Deploy your applications build using Express framework easily using Deploy Monk.
+- Clone this repository: `git clone git@github.com:deploymonk/backend-node-express.git`
+- Install dependencies: `npm install`
+- Start server: `npm start`
 
-Link: [explore.deploymonk.com/docs/backend-node-express](https://explore.deploymonk.com/docs/backend-node-express)
+## Deploy
+Deploy your own clone of this repository using Deploy Monk. Head to [explore.deploymonk.com/docs/backend-node-express](https://explore.deploymonk.com/docs/backend-node-express) to learn more!
